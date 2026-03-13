@@ -1,9 +1,9 @@
 # 🚀 Market Sena
 
-![GitHub repo size](https://img.shields.io/github/repo-size/dukunhost11/repository)
-![GitHub stars](https://img.shields.io/github/stars/dukunhost11/repository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dukunhost11/repository?style=social)
-![License](https://img.shields.io/github/license/dukunhost11/repository)
+![GitHub repo size]( https://img.shields.io/badge/github-repo-blue?logo=github)
+![GitHub stars](https://img.shields.io/badge/coverage-95%25-orange)
+![Static Badge](https://img.shields.io/badge/Project-Active-green)
+![Verified](https://img.shields.io/badge/Sena%20Market-Verified-brightgreen?style=for-the-badge&logo=checkmarx)
 
 > web ini digunakan untuk membuat agent ai secara profesional di buat oleh i putu darma putra
 
