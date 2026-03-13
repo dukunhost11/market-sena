@@ -1,17 +1,17 @@
-# 🚀 Project Name
+# 🚀 Market Sena
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repository)
-![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repository?style=social)
-![License](https://img.shields.io/github/license/username/repository)
+![GitHub repo size](https://img.shields.io/github/repo-size/dukunhost11/repository)
+![GitHub stars](https://img.shields.io/github/stars/dukunhost11/repository?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dukunhost11/repository?style=social)
+![License](https://img.shields.io/github/license/dukunhost11/repository)
 
-> Deskripsi singkat tentang project kamu. Jelaskan tujuan project ini dibuat dan apa manfaatnya.
+> web ini digunakan untuk membuat agent ai secara profesional di buat oleh i putu darma putra
 
 ---
 
 # 📸 Preview
 
-Tambahkan screenshot project kamu di sini.
+berikut adalah foto projek hasil dari editan
 
 ![preview](https://via.placeholder.com/800x400)
 
@@ -43,7 +43,7 @@ Project ini dibuat menggunakan teknologi berikut:
 Clone repository ini
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/dukunhost11/repository.git
 ```
 
 Masuk ke folder project
@@ -69,7 +69,7 @@ npm run dev
 # 📂 Project Structure
 
 ```
-project-name
+market-sena
 │
 ├── src
 │   ├── components
@@ -120,7 +120,7 @@ Project ini menggunakan license **MIT License**
 
 Dibuat oleh:
 
-**Nama Kamu**
+**I PUTU DARMA PUTRA**
 
-* GitHub : https://github.com/username
-* LinkedIn : https://linkedin.com/in/username
+* GitHub : https://github.com/dukunhost11
+* LinkedIn : https://linkedin.com/in/digiedge.id
